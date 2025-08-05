@@ -1,3 +1,19 @@
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 # **👋 Hi, I'm Rohit Gund**  
 ### **DevOps Engineer | Cloud Enthusiast | Automation Advocate**  
 Welcome to my GitHub profile! I’m passionate about building scalable, secure, and efficient cloud-native systems using DevOps principles. My goal is to bridge development and operations through automation, robust CI/CD pipelines, and infrastructure as code.
@@ -46,22 +62,6 @@ Welcome to my GitHub profile! I’m passionate about building scalable, secure, 
 ✔ **Enhance security & compliance** in DevOps workflows  
 ✔ **Monitor & troubleshoot** systems using Prometheus & Grafana  
 
----  
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
 ---
 
 ## **🌱 Currently Exploring**  
