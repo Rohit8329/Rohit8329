@@ -1,16 +1,53 @@
-## Hi there 👋
+# **👋 Hi, I'm Rohit**  
+### **DevOps Engineer | Cloud Enthusiast | Automation Advocate**  
+Welcome to my GitHub profile! I’m passionate about building scalable, secure, and efficient cloud-native systems using DevOps principles. My goal is to bridge development and operations through automation, robust CI/CD pipelines, and infrastructure as code.  
 
-<!--
-**Rohit8329/Rohit8329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---  
 
-Here are some ideas to get you started:
+## **🚀 About Me**  
+- **Role:** DevOps Engineer  
+- **Expertise:** Cloud infrastructure, CI/CD automation, containerization, monitoring, and security.  
+- **Interests:** Cloud-native technologies, Infrastructure as Code (IaC), Kubernetes, serverless computing, and performance optimization.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---  
+
+## **🛠️ Skills & Tools**  
+
+| **Domain**          | **Technologies**                          |  
+|---------------------|------------------------------------------|  
+| **Cloud**           | AWS, Azure, GCP                          |  
+| **Containers**      | Docker, Kubernetes, Helm                 |  
+| **Automation**      | Jenkins, GitHub Actions, Terraform, Ansible |  
+| **Monitoring**      | Prometheus, Grafana, ELK Stack           |  
+| **Security**        | Trivy, Clair, AWS IAM & Security Best Practices |  
+| **Scripting**       | Bash, Python, PowerShell                 |  
+
+---  
+
+## **📈 What I Do**  
+✔ **Design & deploy resilient cloud architectures** (AWS/Azure/GCP)  
+✔ **Automate infrastructure** using Terraform & Ansible  
+✔ **Build & optimize CI/CD pipelines** (Jenkins/GitHub Actions)  
+✔ **Containerize & orchestrate apps** with Docker & Kubernetes  
+✔ **Enhance security & compliance** in DevOps workflows  
+✔ **Monitor & troubleshoot** systems using Prometheus & Grafana  
+
+---  
+
+## **🌱 Currently Exploring**  
+- **Serverless architectures & edge computing**  
+- **Advanced Kubernetes (Operators, Service Mesh)**  
+- **AI/ML integration in DevOps workflows**  
+
+---  
+
+## **📫 Let’s Connect!**  
+📧 **Email**: rohitmg148@email.com  
+🔗 **LinkedIn**: linkedin.com/in/rohit-gund-a22ba02b8  
+🐦 **Twitter**: @Roheet096  
+
+---  
+
+⭐ **Explore my repositories below!** I’m open to collaborations, discussions, and new opportunities in DevOps & cloud engineering.  
+
+**Thanks for visiting!** 🚀
