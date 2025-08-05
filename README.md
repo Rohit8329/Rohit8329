@@ -60,7 +60,9 @@ My goal is to bridge development and operations through automation, robust CI/CD
 
 ## 📫 Let’s Connect!  
 📧 **Email**: rohitmg148@gmail.com  
+
 🔗 [**LinkedIn**]: https://linkedin.com/in/rohit-gund-a22ba02b8
+
 🐦 [**Twitter**]: https://twitter.com/Roheet096
 
 ---
