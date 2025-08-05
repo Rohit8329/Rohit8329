@@ -39,6 +39,7 @@ My goal is to bridge development and operations through automation, robust CI/CD
 | **Security**      | Trivy, Clair, AWS IAM, Cloud Security Best Practices      |
 | **Scripting**     | Bash, Python, PowerShell                                  |
 
+---
 
 <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="DevOps GIF" />
 
