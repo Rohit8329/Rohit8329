@@ -1,6 +1,7 @@
-# **👋 Hi, I'm Rohit Gund**  <div align="right">
+<div align="right">
   <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div> 
+# **👋 Hi, I'm Rohit Gund**  
 ### **DevOps Engineer | Cloud Enthusiast | Automation Advocate**  
 Welcome to my GitHub profile! I’m passionate about building scalable, secure,
 and efficient cloud-native systems using DevOps principles. 
