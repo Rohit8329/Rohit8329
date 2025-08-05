@@ -1,9 +1,18 @@
-# 👋 Hi, I'm Rohit Gund  
-**DevOps Engineer | Cloud Enthusiast | Automation Advocate**  
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="DevOps GIF" />
+</div>
 
-Welcome to my GitHub profile!  
-I’m passionate about building scalable, secure, and efficient cloud-native systems using DevOps principles.  
-My goal is to bridge development and operations through automation, robust CI/CD pipelines, and infrastructure as code.
+<h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Rohit Gund</span></h1>
+
+<p align="center">
+  <strong>DevOps Engineer | Cloud Enthusiast | Automation Advocate</strong>  
+</p>
+
+<p align="center">
+  Welcome to my GitHub profile!  
+  I’m passionate about building scalable, secure, and efficient cloud-native systems using DevOps principles.  
+  My goal is to bridge development and operations through automation, robust CI/CD pipelines, and infrastructure as code.
+</p>
 
 ---
 
