@@ -43,22 +43,37 @@ DevOps Engineer | Cloud Enthusiast | Automation Advocate
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hasanmonsur/hasanmonsur/main/github-user-contribution.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hasanmonsur/hasanmonsur/main/github-user-contribution.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hasanmonsur/hasanmonsur/main/github-user-contribution.svg">
-  </picture>
+<div align="center" style="margin-top: 40px; margin-bottom: 40px;">
+  <h2>🚀 My GitHub Contribution Graphs</h2>
+
+  <!-- Snake Contribution Graph -->
+  <figure style="margin: 30px 0;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hasanmonsur/hasanmonsur/main/github-user-contribution.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hasanmonsur/hasanmonsur/main/github-user-contribution.svg">
+      <img 
+        alt="GitHub contribution grid snake animation" 
+        src="https://raw.githubusercontent.com/hasanmonsur/hasanmonsur/main/github-user-contribution.svg" 
+        style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" 
+      />
+    </picture>
+    <figcaption style="margin-top: 10px; font-style: italic;">🐍 Snake-style GitHub activity</figcaption>
+  </figure>
+
+  <!-- Pacman Contribution Graph -->
+  <figure style="margin: 30px 0;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+      <img 
+        alt="Pacman-style contribution graph" 
+        src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg" 
+        style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" 
+      />
+    </picture>
+    <figcaption style="margin-top: 10px; font-style: italic;">🟡 Pacman-style contribution animation</figcaption>
+  </figure>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
 
 ###
 
