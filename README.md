@@ -44,34 +44,53 @@ DevOps Engineer | Cloud Enthusiast | Automation Advocate
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 
 <div align="center" style="margin-top: 40px; margin-bottom: 40px;">
-  <h2>🚀 My GitHub Contribution Graphs</h2>
+  <h2 style="font-family: sans-serif; animation: fadeInDown 1s ease-in-out;">🚀 My GitHub Contribution Graphs</h2>
 
-  <!-- Snake Contribution Graph -->
+  <style>
+    .contrib-img {
+      max-width: 100%;
+      border-radius: 12px;
+      transition: transform 0.4s ease, box-shadow 0.4s ease;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+    }
+
+    .contrib-img:hover {
+      transform: scale(1.03);
+      box-shadow: 0 8px 25px rgba(0,0,0,0.3);
+    }
+
+    @keyframes fadeInDown {
+      0% { opacity: 0; transform: translateY(-20px); }
+      100% { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+
+  <!-- Snake Contribution -->
   <figure style="margin: 30px 0;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hasanmonsur/hasanmonsur/main/github-user-contribution.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hasanmonsur/hasanmonsur/main/github-user-contribution.svg">
       <img 
-        alt="GitHub contribution grid snake animation" 
+        alt="Snake GitHub contribution animation" 
         src="https://raw.githubusercontent.com/hasanmonsur/hasanmonsur/main/github-user-contribution.svg" 
-        style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" 
+        class="contrib-img"
       />
     </picture>
-    <figcaption style="margin-top: 10px; font-style: italic;">🐍 Snake-style GitHub activity</figcaption>
+    <figcaption style="margin-top: 8px; font-style: italic;">🐍 Snake-style GitHub animation</figcaption>
   </figure>
 
-  <!-- Pacman Contribution Graph -->
+  <!-- Pacman Contribution -->
   <figure style="margin: 30px 0;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
       <img 
-        alt="Pacman-style contribution graph" 
+        alt="Pacman-style GitHub contribution graph" 
         src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg" 
-        style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" 
+        class="contrib-img"
       />
     </picture>
-    <figcaption style="margin-top: 10px; font-style: italic;">🟡 Pacman-style contribution animation</figcaption>
+    <figcaption style="margin-top: 8px; font-style: italic;">🟡 Pacman-style GitHub animation</figcaption>
   </figure>
 </div>
 
