@@ -1,9 +1,5 @@
-<div align="center">
-  <img height="200" src="YOUR_CHOSEN_GIF_URL" alt="DevOps Animation"/>
-</div>
-
-<h1 align="center">👋 Hi, I'm Rohit Gund</h1>
-<p align="center"><strong>DevOps Engineer | Cloud Enthusiast | Automation Advocate</strong></p>
+👋 Hi, I'm Rohit Gund</h1>
+DevOps Engineer | Cloud Enthusiast | Automation Advocate
 
 ---
 
