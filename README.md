@@ -42,8 +42,8 @@ Welcome to my GitHub profile! I’m passionate about building scalable, secure, 
 ---  
 
 ## **📫 Let’s Connect!**  
-📧 **Email**: rohitmg148@email.com  
-🔗 **LinkedIn**: linkedin.com/in/rohit-gund-a22ba02b8  
+📧 **Email**: rohitmg148@gmail.com  
+🔗 **LinkedIn**: https://linkedin.com/in/rohit-gund-a22ba02b8  
 🐦 **Twitter**: @Roheet096  
 
 ---  
