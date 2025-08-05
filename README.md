@@ -47,6 +47,18 @@ Welcome to my GitHub profile! I’m passionate about building scalable, secure, 
 ✔ **Monitor & troubleshoot** systems using Prometheus & Grafana  
 
 ---  
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+---
 
 ## **🌱 Currently Exploring**  
 - **Serverless architectures & edge computing**  
