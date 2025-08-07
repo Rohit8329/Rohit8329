@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rohit Gund
+# 👋 Hi, I'm Rohit
 DevOps Engineer | Cloud Enthusiast | Automation Advocate
 
 ---
